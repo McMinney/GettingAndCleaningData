@@ -1,4 +1,4 @@
-This code book describes the variables, the data, and any transformations or work that I performed to clean up the data.
+Codebook
 ===============================================================================
 
 The original dataset contained 561 motion variables. Eight of the original data files were merged to create one large file containing all variables, labels, subjects and activities. Activities were renamed from numbers to descriptive names.

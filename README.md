@@ -1,7 +1,7 @@
 
-==================================================================
 Getting & Cleaning Data Course Project, using the
 "Human Activity Recognition Using Smartphones" dataset
+
 ==================================================================
 
 The original dataset is data obtained from 30 volunteers performing a variety of activities (walking, walking upstais, walking downstairs, sitting, standing, laying) whilst wearing a smartphone. The smartphone's accelerometer and gyroscope are used to record motion data.
